@@ -1,4 +1,4 @@
-# 🏦 XYZ Bank Cypress Automation
+🏦 XYZ Bank Cypress Automation 🏦
 
 Automated end-to-end tests for the [XYZ Bank](https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login) demo app using **Cypress**.
 
@@ -25,6 +25,5 @@ npx cypress open    # Interactive mode
 # or
 npx cypress run     # Headless mode
 
-Made with ❤️ by **Irfan**
-Feel free to contribute or report issues!
+
 
