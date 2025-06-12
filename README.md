@@ -9,14 +9,15 @@ Automated end-to-end tests for the [XYZ Bank](https://www.globalsqa.com/angularJ
 - 💰 Deposit & Withdraw with validation
 - 📜 Transaction history & logout
 
-## 🛠️ Prerequisites
+## Test Case
+https://drive.google.com/drive/folders/1t0amwT3RIezrWsHF7yfnKVbB9iEPETUW?usp=sharing
 
+## 🛠️ Prerequisites
 - 🖥️ [Node.js](https://nodejs.org/) installed (v14 or higher recommended)
 - 📦 npm (comes with Node.js)
 - 🔧 Git
   
 ## ⚙️ Setup & Run
-
 ```bash
 git clone https://github.com/phannstastic/xyz-Bank-Cypress-Test.git
 cd xyz-Bank-Cypress-Test
