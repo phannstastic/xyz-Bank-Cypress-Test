@@ -9,8 +9,8 @@ Automated end-to-end tests for the [XYZ Bank](https://www.globalsqa.com/angularJ
 - 💰 Deposit & Withdraw with validation
 - 📜 Transaction history & logout
 
-## Test Case
-https://drive.google.com/drive/folders/1t0amwT3RIezrWsHF7yfnKVbB9iEPETUW?usp=sharing
+## Test Case 
+https://docs.google.com/spreadsheets/d/1LEmQFXyLdpGtLQ_1FlGJkBROXybIj2hUE0ASNKP_7rk/edit?usp=drivesdk
 
 ## 🛠️ Prerequisites
 - 🖥️ [Node.js](https://nodejs.org/) installed (v14 or higher recommended)
